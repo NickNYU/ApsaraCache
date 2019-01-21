@@ -33,3 +33,6 @@ src/GRTAGS
 src/GTAGS
 redis-aof-tools
 tests/tmp
+
+.idea/
+cmake-build-debug/
